@@ -14,3 +14,4 @@ This repository is a study of various underweight autoencoder models judged on a
 * Architecture: (4, 200, 100, 50, 3, 50, 100, 200, 4)
 * Initializer: Glorot Uniform for kernels and Glorot Normal for biases.
 
+![./Graphs_and_Records/Summary_Total_Loss_s_1.svg]
