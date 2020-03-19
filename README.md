@@ -16,6 +16,5 @@ Before I start with the characteristics and analysis of each model, I'd like to 
 * `Architecture`: (4, 200, 100, 50, 3, 50, 100, 200, 4)
 * `Initializer`: Glorot Uniform for kernels and Glorot Normal for biases.
 
-This was my first attempt at training an autoencoder for data compression on the given data.
-
 ![Training Loss Curve](/Graphs_and_Records/Summary_Total_Loss_s_1.svg)
+![Distribution of Kernels](/Graphs_and_Records/Distribution_s_1.png)
